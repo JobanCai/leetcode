@@ -10,6 +10,7 @@ public class Solution {
     public static void main (String[] args) {
         // 1.方法一:遍历二叉树，保存到数组中，在遍历数组求最小值
         // 2.方法二:遍历二叉树，使用一个变量保存前序节点
+        System.out.println(Integer.parseInt("11", 2));
     }
 
     static int pre = -1;
